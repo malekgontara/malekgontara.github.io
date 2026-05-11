@@ -5,7 +5,7 @@ Personal portfolio site. One-page static site, no build step.
 ## Stack
 
 - HTML, CSS, vanilla JS
-- System fonts only — no external dependencies, no analytics
+- System fonts only - no external dependencies, no analytics
 
 ## Local preview
 
